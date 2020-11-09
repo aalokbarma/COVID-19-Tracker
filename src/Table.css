@@ -1,0 +1,44 @@
+.table {
+    margin-top: 20px;
+    overflow: scroll;
+    color: #6a5d5d;
+    background-color: white;
+    height: 400px;
+  }
+  
+  .table tr {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .table td {
+    width: 25%;
+    padding: 0.5rem;
+    border: none;
+    justify-content: center;
+  }
+  .table th {
+    width: 25%;
+    padding: 0.5rem;
+    border: none;
+    justify-content: center;
+    color: black;
+    background: rgba(0,0,0,0.25);
+  }
+
+  .deaths {
+    color: red;
+    font-weight: 400;
+  }
+  .recovered{
+    color: green;
+    font-weight: 400;
+  }
+  .cases{
+    color: black;
+    font-weight: 400;
+  }
+  
+  .table tr:nth-of-type(odd) {
+    background-color: #f3f2f8;
+  }
