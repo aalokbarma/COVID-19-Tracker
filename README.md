@@ -2,6 +2,7 @@
 
 *React js is used in the project to make it faster.*
 
+![2](https://user-images.githubusercontent.com/64027837/99032493-7bc28100-252e-11eb-88b5-0b76a0734311.png)
 
 *Here are the data of thw whole World country-wise*
 
