@@ -15,6 +15,7 @@
 
 *Different colors used for different types of data like- Total cases, Total recovered, Total deaths etc.*
 
+![3](https://user-images.githubusercontent.com/64027837/99032505-82e98f00-252e-11eb-8b41-563d0d68c639.png)
 
 
 *Here is also a line graph showing different types of data of the world of last 120 days.*
