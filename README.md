@@ -19,3 +19,5 @@
 
 
 *Here is also a line graph showing different types of data of the world of last 120 days.*
+![5](https://user-images.githubusercontent.com/64027837/99032529-94cb3200-252e-11eb-989c-3fda513f4ad0.png)
+
