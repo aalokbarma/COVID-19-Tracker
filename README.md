@@ -5,6 +5,7 @@
 
 *Here are the data of thw whole World country-wise*
 
+![1](https://user-images.githubusercontent.com/64027837/99032475-7107ec00-252e-11eb-9566-70221cabc48e.png)
 
 
 *This app shows the real time data of the world.*
