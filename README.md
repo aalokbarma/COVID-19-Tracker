@@ -11,7 +11,7 @@
 
 *This app shows the real time data of the world.*
 
-
+![4](https://user-images.githubusercontent.com/64027837/99032521-8ed55100-252e-11eb-8112-086d545eb71b.png)
 
 *Different colors used for different types of data like- Total cases, Total recovered, Total deaths etc.*
 
